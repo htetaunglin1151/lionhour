@@ -1,8 +1,8 @@
-@font-face { font-family: Inter; src: url('/assets/inter-regular.ttf') format('truetype'); font-weight: 400; font-display: swap; }
-@font-face { font-family: Inter; src: url('/assets/inter-medium.ttf') format('truetype'); font-weight: 500; font-display: swap; }
-@font-face { font-family: Inter; src: url('/assets/inter-semibold.ttf') format('truetype'); font-weight: 600; font-display: swap; }
-@font-face { font-family: Marcellus; src: url('/assets/marcellus.ttf') format('truetype'); font-weight: 400; font-display: swap; }
-@font-face { font-family: 'Material Symbols Outlined'; src: url('/assets/material-symbols.ttf') format('truetype'); font-weight: 300; font-display: block; }
+@font-face { font-family: Inter; src: url('./assets/inter-regular.ttf') format('truetype'); font-weight: 400; font-display: swap; }
+@font-face { font-family: Inter; src: url('./assets/inter-medium.ttf') format('truetype'); font-weight: 500; font-display: swap; }
+@font-face { font-family: Inter; src: url('./assets/inter-semibold.ttf') format('truetype'); font-weight: 600; font-display: swap; }
+@font-face { font-family: Marcellus; src: url('./assets/marcellus.ttf') format('truetype'); font-weight: 400; font-display: swap; }
+@font-face { font-family: 'Material Symbols Outlined'; src: url('./assets/material-symbols.ttf') format('truetype'); font-weight: 300; font-display: block; }
 * { box-sizing: border-box; }
 body { margin: 0; color: var(--color-ink); background: var(--color-canvas); font-family: var(--font-body); font-size: var(--font-size-body); line-height: var(--line-normal); }
 button, select { font: inherit; color: inherit; }
